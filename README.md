@@ -1,4 +1,6 @@
 # Fri_WebGame_WebGL
+Class Assignment completed using Unity2D with Fungus.
+# How To Play
 Click on the link below to play.
 
 https://sierra0330.github.io/Fri_WebGame_WebGL/
